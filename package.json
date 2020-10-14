@@ -10,6 +10,9 @@
   "author": "edgar querales",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.18.2"
+    "apollo-server": "^2.18.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.9"
   }
 }
